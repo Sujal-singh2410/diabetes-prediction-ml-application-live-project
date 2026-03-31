@@ -1,1 +1,2 @@
 # diabetes-prediction-ml-application-live-project
+This project is a machine learning-powered web application designed to predict the likelihood of diabetes in individuals based on key health parameters. The app provides an easy-to-use interface where users can input medical attributes such as glucose level, BMI, age, blood pressure, and more. The trained ML model then analyzes the data and outputs a prediction, helping raise awareness and supporting early detection.
